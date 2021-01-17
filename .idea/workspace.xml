@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e160874-bc01-4b4a-adbb-52c83a87dc97" name="Default Changelist" comment="laikas su funkcijom">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/app/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/app/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/app/controllers/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/app/info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/app/views/fonas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/app/views/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/app/views/klases_nariai.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/app/views/kontaktai.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/assets/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/assets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/assets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/assets/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/assets/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/assets/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-multiple_files/info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-php/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-php/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-php/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-php/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-php/app/views/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-php/app/views/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-php/app/views/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-php/app/views/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Controller/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Controller/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Controller/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Controller/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Controller/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Controller/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Views/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Views/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Views/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Views/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Views/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Views/play.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/App/Views/results.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/Assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-dice/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12-aiste-pirma/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12-aiste-pirma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12-aiste-pirma/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12-aiste-pirma/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12-aiste-pirma/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13-A-uzdaviniai(eglute)/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13-A-uzdaviniai(eglute)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13-A-uzdaviniai(eglute)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13-A-uzdaviniai(eglute)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13-A-uzdaviniai(eglute)/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14-A-deckCards" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15-A-forma_ir_validacija" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16-MARIUS-FORMOS-1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16-MARIUS-FORMOS-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16-MARIUS-FORMOS-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16-MARIUS-FORMOS-1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16-MARIUS-FORMOS-1/directory/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16-MARIUS-FORMOS-1/directory/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16-MARIUS-FORMOS-1/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16-MARIUS-FORMOS-1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16-MARIUS-FORMOS-1/ref.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16-praktika" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/inc/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/inc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/inc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/inc/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/pages/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/pages/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/pages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/pages/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-M-forms_validation/success.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18-A-login" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18-A-register_form/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18-A-register_form/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18-A-register_form/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18-A-register_form/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18-A-register_form/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18-A-register_form/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18-A-register_form/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18-M-cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19-A-Nuotraukos-JS/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19-A-Nuotraukos-JS/fetchProcess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19-A-Nuotraukos-JS/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19-A-Nuotraukos-JS/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19-A-Nuotraukos-JS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-buteliai/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-buteliai/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-buteliai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-buteliai/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-buteliai/images/packOfWater.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-buteliai/images/water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-buteliai/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/LoginPHP (1)/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/LoginPHP (1)/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/LoginPHP (1)/inc/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/LoginPHP (1)/inc/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/LoginPHP (1)/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/LoginPHP (1)/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/LoginPHP (1)/process/data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/LoginPHP (1)/process/helperFn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/LoginPHP (1)/process/loginProcess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/LoginPHP (1)/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/images/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-liekana/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-pirminiai.kariuomene/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-pirminiai.kariuomene/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-pirminiai.kariuomene/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-pirminiai.kariuomene/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-pirminiai.kariuomene/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-A-OOP-VendingMachine/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-A-OOP-VendingMachine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-A-OOP-VendingMachine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-A-OOP-VendingMachine/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-A-OOP-VendingMachine/Class/Item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-A-OOP-VendingMachine/Class/VendingMachine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-A-OOP-VendingMachine/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-A-OOP-VendingMachine/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20-M-OOP-Freelancer_Worker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21-A-Vaiko vardas ir lytis/Child.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21-A-Vaiko vardas ir lytis/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23-M-DB_Start/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-kortele/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-kortele/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-kortele/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-kortele/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-telefonai/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-telefonai/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-telefonai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-telefonai/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-telefonai/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-termometras/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-termometras/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-termometras/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-termometras/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-forEach-termometras/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-foreach/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-foreach/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-foreach/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-foreach/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-foreach/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-bazines_funkcijos/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-bazines_funkcijos/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-bazines_funkcijos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-bazines_funkcijos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-bazines_funkcijos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-bazines_funkcijos/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-keli_php_failai/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-keli_php_failai/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-keli_php_failai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-keli_php_failai/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-keli_php_failai/array.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-keli_php_failai/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-keli_php_failai/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-kartojimo funkcijos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-kartojimo funkcijos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-kartojimo funkcijos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-kartojimo funkcijos/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-kartojimo-uzdaviniai/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-kartojimo-uzdaviniai/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-kartojimo-uzdaviniai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-kartojimo-uzdaviniai/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-kartojimo-uzdaviniai/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-uzduotys-alko/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-uzduotys-alko/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-uzduotys-alko/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-uzduotys-alko/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-uzduotys-alko/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-taikinys/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-taikinys/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-taikinys/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-taikinys/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-taikinys/images/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-taikinys/images/cross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-taikinys/images/target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-taikinys/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8-post-get/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8-post-get/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8-post-get/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8-post-get/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8-post-get/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8-post-gyvunai/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8-post-gyvunai/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8-post-gyvunai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8-post-gyvunai/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-svc/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-svc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-svc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-svc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-svc/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-txt/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-txt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-txt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-txt/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-txt/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9-fopen-txt/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/image.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/packOfWater.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMAGES/water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginPHP (1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-bomb/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-bomb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-bomb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-bomb/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-bomb/images/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-bomb/images/explosion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-4/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-4/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-color/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-color/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-color/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-color/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice-style/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice-style/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice-style/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice-style/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice-style/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice-style/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice-style/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice-style/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice-style/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice-style/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date-random-dice/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/.idea/mariaus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/inc/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/pages/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/sess.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mariaus/success.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pace=fix,-indent-with-non-tab,trailing-space,cr-at-eol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-A-Nuotraukos-JS/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19-A-Nuotraukos-JS/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-A-Nuotraukos-JS/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-A-Nuotraukos-JS/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-M-OOP_START" beforeDir="false" afterPath="$PROJECT_DIR$/../19-M-OOP_START" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20-M-OOP-Employee/.idea/20-M-OOP-Employee.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../20-A-OOP-VendingMachine/.idea/20-nuotraukos-JS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20-M-OOP-Employee/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10-multiple_files/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20-M-OOP-Employee/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10-multiple_files/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20-M-OOP-Employee/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10-multiple_files/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20-M-OOP-Employee/Class/Employee.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20-M-OOP-Employee/Class/Freelancer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20-M-OOP-Employee/Class/Job.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20-M-OOP-Employee/Class/Worker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20-M-OOP-Employee/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n3pMidypqmwm7YfEE8JzowLL4g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e160874-bc01-4b4a-adbb-52c83a87dc97" name="Default Changelist" comment="" />
+      <created>1610628582861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610628582861</updated>
+      <workItem from="1610628583912" duration="21295000" />
+      <workItem from="1610694422672" duration="24566000" />
+      <workItem from="1610899292698" duration="604000" />
+      <workItem from="1610900499093" duration="10212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="laikas su funkcijom" />
+    <option name="LAST_COMMIT_MESSAGE" value="laikas su funkcijom" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1370" y="-1080" key="CommitChangelistDialog2" timestamp="1610916466144">
+      <screen x="1066" y="-1080" width="1536" height="824" />
+    </state>
+    <state x="1370" y="-1080" key="CommitChangelistDialog2/0.0.1280.680/1066.-1080.1536.824@1066.-1080.1536.824" timestamp="1610916466144" />
+    <state x="1658" y="-862" key="FileChooserDialogImpl" timestamp="1610916392005">
+      <screen x="1066" y="-1080" width="1536" height="824" />
+    </state>
+    <state x="1658" y="-862" key="FileChooserDialogImpl/0.0.1280.680/1066.-1080.1536.824@1066.-1080.1536.824" timestamp="1610916392005" />
+    <state x="1271" y="-805" key="FileChooserDialogImpl/0.0.1280.680/531.-1080.1920.1040@531.-1080.1920.1040" timestamp="1610700752722" />
+    <state x="790" y="-822" key="NewPhpClassDialog" timestamp="1610628772369">
+      <screen x="531" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="790" y="-822" key="NewPhpClassDialog/0.0.1280.639/531.-1080.1920.1040@531.-1080.1920.1040" timestamp="1610628772369" />
+    <state x="1299" y="-637" key="NewPhpFileDialog" timestamp="1610630088277">
+      <screen x="531" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1299" y="-637" key="NewPhpFileDialog/0.0.1280.639/531.-1080.1920.1040@531.-1080.1920.1040" timestamp="1610630088277" />
+    <state x="1497" y="-935" width="672" height="678" key="search.everywhere.popup" timestamp="1610907317739">
+      <screen x="1066" y="-1080" width="1536" height="824" />
+    </state>
+    <state x="1497" y="-935" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1066.-1080.1536.824@1066.-1080.1536.824" timestamp="1610907317739" />
+  </component>
+</project>
