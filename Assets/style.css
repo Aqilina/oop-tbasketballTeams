@@ -1,19 +1,46 @@
 .dateStyle {
+    color:green;
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+}
 
+.timeStyle {
+    font-size: 20px;
 }
 
 .matchContainer {
     display: flex;
-
+    justify-content: center;
 }
 
+.oneTeamContainer {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: 30px 10px;
+    background-color: #f6eaea;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.teamNameAndCoachContainer {
+    text-align: center;
+    text-transform: uppercase;
+    color: green;
+    font-weight: bolder;
+}
 
+.spanInfo {
+    margin-left: 5px;
+    font-weight: normal;
+}
 
+.logo{
+    height: 150px;
+    margin: 15px;
+}
 
-
-
-
-
-.logo {
-    height: 200px;
+table {
+    margin: 20px;
+    text-align: center;
 }

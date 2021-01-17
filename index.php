@@ -56,18 +56,14 @@ $matchEndHour = $matchHour +2;
 
 $gameMatch = new GameMatch($teamsArr);
 
-//$gameMatchDate = $gameMatch->setDate($matchDateFormatted);
-//$gameMatch->setTime($matchHour . ":" . getMinutes($matchDateTimestamp) . " - " . $matchEndHour . ":" . getMinutes($matchDateTimestamp));
-//$gameMatch->setLocation(whichLocation());
-//
-//var_dump($gameMatch);
-
-
-$gameMatch->setDate(createMatchDate($todayTimestamp, $afterThreeMonthsTimestamp));
-$gameMatch->setTime(createMatchStartTime($todayTimestamp, $afterThreeMonthsTimestamp) . " - " . createMatchStartTime($todayTimestamp+2, $afterThreeMonthsTimestamp));
+$gameMatch->setDate($matchDateFormatted);
+$gameMatch->setTime($matchHour . ":" . getMinutes($matchDateTimestamp) . " - " . $matchEndHour . ":" . getMinutes($matchDateTimestamp));
 $gameMatch->setLocation(whichLocation());
 
-var_dump($gameMatch);
+//paimami ir priskiriami is objekto komandu masyvai
+$gameMatchArr = $gameMatch->getTeams();
+$firstTeam = $gameMatchArr['firstTeam'];
+$secondTeam = $gameMatchArr['secondTeam'];
 
 ?>
 
@@ -82,13 +78,71 @@ var_dump($gameMatch);
     <title>Document</title>
 </head>
 <body>
-<!--<div class="dateStyle">--><?php //print ?><!--</div>-->
+
+<div class="dateStyle"><?php print $gameMatch->getDate() ?></div>
+<div class="dateStyle timeStyle"><?php print $gameMatch->getTime() ?></div>
+
 <div class="matchContainer">
-    <img class="logo" src="<?php print getTeamLogo()?>" alt="">
+    <div class="oneTeamContainer">
+        <img class="logo" src="<?php print $firstTeam->getTeamLogo()?>" alt="">
+        <div class="teamNameAndCoachContainer">
+            <div>Team Name:<span class="spanInfo"><?php print $firstTeam->getTeamName() ?></span></div>
+            <div>Coach: <span class="spanInfo"><?php print $firstTeam->getCoach()?></span></div>
+        </div>
+
+        <table class="playersTable">
+            <thead>
+            <tr>
+                <th>Player name</th>
+                <th>Height</th>
+                <th>Position</th>
+                <th>Number</th>
+            </tr>
+
+            </thead>
+            <tbody>
+            <?php foreach ($firstTeam->getPlayers() as $player) : ?>
+                <tr>
+                    <td><?php print $player->getName() . " " . $player->getLastname() ?></td>
+                    <td><?php print $player->getHeight() ?></td>
+                    <td><?php print $player->getPosition() ?></td>
+                    <td><?php print $player->getTShirtNumber() ?></td>
+                </tr>
+            <?php endforeach; ?>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="oneTeamContainer">
+        <img class="logo" src="<?php print $secondTeam->getTeamLogo()?>" alt="">
+        <div class="teamNameAndCoachContainer">
+            <div>Team Name:<span class="spanInfo"><?php print $secondTeam->getTeamName() ?></span></div>
+            <div>Coach: <span class="spanInfo"><?php print $secondTeam->getCoach()?></span></div>
+        </div>
+
+        <table class="playersTable">
+            <thead>
+            <tr>
+                <th>Player name</th>
+                <th>Height</th>
+                <th>Position</th>
+                <th>Number</th>
+            </tr>
+
+            </thead>
+            <tbody>
+            <?php foreach ($secondTeam->getPlayers() as $player) : ?>
+                <tr>
+                    <td><?php print $player->getName() . " " . $player->getLastname() ?></td>
+                    <td><?php print $player->getHeight() ?></td>
+                    <td><?php print $player->getPosition() ?></td>
+                    <td><?php print $player->getTShirtNumber() ?></td>
+                </tr>
+            <?php endforeach; ?>
+            </tbody>
+        </table>
+    </div>
 </div>
 
-<div>
-
-</div>
 </body>
 </html>
